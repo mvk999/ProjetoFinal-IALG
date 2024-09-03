@@ -6,9 +6,15 @@ DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO
 RELATÓRIO DO PROJETO PRÁTICO
 (REGISTRO DE ATLETAS)
 
-Fábio Damas Valim - 202410372
-Guilherme Lirio Miranda - 202410367
-Marcos Vinícius Pereira - 202411098
+Fábio Damas Valim
+
+
+Guilherme Lirio Miranda
+
+
+Marcos Vinícius Pereira
+
+
 
 Lavras - MG
 Agosto de 2024
